@@ -1,4 +1,4 @@
 ## Project Repository
-[View the project repository on GitHub](https://KHAYO-zen.github.io/cvproject/)
+[View the project repository on GitHub](https://github.com/KHAYO-zen/CVProject.git)
 
 
